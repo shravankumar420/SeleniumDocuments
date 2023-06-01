@@ -1,0 +1,23 @@
+Username: shravan
+Password: Test@123
+Fullname: shravankumar
+Mail: s.v.shravankumar420@gmail.com
+Jenkins URL: http://localhost:8080/
+java -jar jenkins.war --enable-future-java
+Git:s.v.shravankumar420@gmail.com
+420
+Manualtesting@123
+Git commands
+https://dzone.com/articles/top-20-git-commands-with-examples
+
+PS C:\Users\svshr> git config --global user.name “shravan”
+
+PS C:\Users\svshr> git config --global user.email “s.v.shravankumar420@gmail.com”
+
+Maven commands
+
+D:\WorkSpaceSelenium\mcpcucumberFramework>mvn test
+mvn test -Dcucumber.filter.tags="@RegTest"
+mvn test -Dcucumber.filter.tags="@RegTest" -Dbrowser=Edge
+PAT Token for LocalAgent: vzif26ezk6aljespdfqgxlw24i4punkp5hoxubgbraezqejlpfbq
+PAT Token for Demo:pcw24p3dsdwujw665jgngavfk4twsuqlvb4j75mmuydtgbrncycq

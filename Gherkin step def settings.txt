@@ -1,0 +1,22 @@
+old one -
+{
+    "java.compile.nullAnalysis.mode": "automatic",
+    "cucumberautocomplete.customParameters": [
+
+    ],
+    "cucumberautocomplete.onTypeFormat": false,
+    "cucumberautocomplete.syncfeatures": false
+}
+
+New one 
+{
+    "cucumberautocomplete.steps": [
+        "src/test/java/stepDefinitions/*.java"
+      ],
+   "cucumberautocomplete.syncfeatures": "java/features/*.feature",
+   "cucumberautocomplete.strictGherkinCompletion": false,
+   "cucumberautocomplete.smartSnippets": true,
+"cucumberautocomplete.stepsInvariants": true,
+"java.compile.nullAnalysis.mode": "automatic",
+"java.configuration.updateBuildConfiguration": "interactive"
+}
